@@ -1,0 +1,13 @@
+[package]
+name = "embodystar"
+version = "0.1.0"
+edition = "2024"
+
+description = "Rust Package For EmbodyStar"
+documentation = "https://github.com/embodystar/embodystar.git"
+homepage = "https://github.com/embodystar/embodystar.git"
+repository = "https://github.com/embodystar/embodystar.git"
+license = "MIT OR Apache-2.0"
+license-file = "LICENSE.txt"
+
+[dependencies]
